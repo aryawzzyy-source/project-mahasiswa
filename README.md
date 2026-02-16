@@ -56,7 +56,7 @@ CREATE TABLE mahasiswa (
 ## 📂 Struktur Folder
 
 ```
-crud_mahasiswa/
+mahasiswa/
 │
 ├── koneksi.php
 ├── index.php
