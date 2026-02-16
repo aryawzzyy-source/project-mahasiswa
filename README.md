@@ -86,7 +86,7 @@ htdocs/
 4. Akses di browser:
 
 ```
-http://localhost/crud_mahasiswa/index.php
+http://localhost/mahasiswa/
 ```
 
 ---
